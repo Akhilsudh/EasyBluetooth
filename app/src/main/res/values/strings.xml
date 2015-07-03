@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Easy Bluetooth</string>
+    <string name="title_activity_priority">Manage Bluetooth Priority</string>
+    <string name="action_exit">EXIT</string>
+    <string name="action_resetPriorityList">Reset List</string>
+    <string name="title_activity_help">Help</string>
+    <string name="action_help">Help</string>
+    <string name="action_settings">Settings</string>
+</resources>

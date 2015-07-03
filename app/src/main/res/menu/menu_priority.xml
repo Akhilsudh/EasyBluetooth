@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".PriorityActivity">
+
+    <item android:id="@+id/action_resetPriorityList"
+        android:title="@string/action_resetPriorityList"
+        android:orderInCategory="1"
+        app:showAsAction="never" />
+
+</menu>

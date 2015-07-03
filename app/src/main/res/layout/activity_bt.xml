@@ -1,0 +1,50 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".BTActivity"
+    android:id="@+id/Akhil"
+    android:background="#E1F5FE"
+    android:clickable="true">
+
+    <TextView
+        android:id="@+id/connectedDeviceName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:maxLines = "10"
+        android:minLines = "1"
+        android:textColor="#ff0277bd"
+        android:text="Searching..."
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="false"
+        android:textAlignment="center"
+        android:layout_alignBottom="@+id/Priority"
+        android:gravity="center" />
+
+    <Button
+        android:id="@+id/Priority"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/mybutton"
+        android:onClick="onPriorityButtonClick"
+        android:text="Manage Bluetooth Priority"
+        android:layout_marginTop="135dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageButton style="@style/AppTheme"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:id="@+id/fab_button"
+        android:background="@drawable/fab"
+        android:src="@mipmap/ic_fab"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="24dp"
+        android:layout_marginRight="10dp"
+        android:onClick="onFAButtonClick" />
+    <!---->
+</RelativeLayout>
