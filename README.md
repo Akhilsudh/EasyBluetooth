@@ -2,7 +2,7 @@
 [![Download](https://img.shields.io/badge/download-Drive%20Link-brightgreen.svg)](https://drive.google.com/open?id=0B9BwoyWbNMqoQ0pUc25RSkNVNzg)
 [![Platform](https://img.shields.io/badge/platform-Android-lightgrey.svg)](https://www.android.com)
 [![SDK](https://img.shields.io/badge/SDK-16%2B-brightred.svg)](https://github.com/Akhilsudh/EasyBluetooth/)
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 
 This app is a Bluetooth device manager app that lets one to prioritise the order in which a list of paired A2DP devices the user's android phone is supposed to connect to. For example, if there are 3 paired Bluetooth devices in range (Say A, B and C), then the app helps in deciding which of the three devices the phone is supposed to connect to depending on what the user has decided beforehand. The priority of the paired devices can be set using a very user friendly and easy dragable list where a specific device on long pressing can be dragged over other devices in the list and placed on the required priority position.
