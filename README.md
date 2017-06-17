@@ -1,6 +1,5 @@
 # EasyBluetooth
-[![Download](https://img.shields.io/badge/Download-Drive link-brightgreen.svg)](https://drive.google.com/open?id=0B9BwoyWbNMqoQ0pUc25RSkNVNzg
-)
+[![Download](https://img.shields.io/badge/Download-Drive%20Link-brightgreen.svg)](https://drive.google.com/open?id=0B9BwoyWbNMqoQ0pUc25RSkNVNzg)
 [![SDK](https://img.shields.io/badge/SDK-16%2B-brightred.svg)](https://github.com/Akhilsudh/EasyBluetooth/)
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
