@@ -11,7 +11,7 @@ This app is a Bluetooth device manager app that lets one to prioritise the order
 ![Screenshot 1](Screenshots/screen1.png) ![Screenshot 2](Screenshots/screen2.png)
 ![Screenshot 3](Screenshots/screen3.png) ![Screenshot 4](Screenshots/screen4.png)
 
-##License
+## License
     The MIT License (MIT)
 
     Copyright (c) 2014-2016 Akhil Sudhakaran
