@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 
 
-> EasyBluetooth is a Bluetooth device manager app that lets one to prioritise the order in which a list of paired A2DP devices the user's android phone is supposed to connect to. For example, if there are 3 paired Bluetooth devices in range (Say A, B and C), then the app helps in deciding which of the three devices the phone is supposed to connect to depending on what the user has decided beforehand. The priority of the paired devices can be set using a very user friendly and easy dragable list where a specific device on long pressing can be dragged over other devices in the list and placed on the required priority position.
+ EasyBluetooth is a Bluetooth device manager app that lets one to prioritise the order in which a list of paired A2DP devices the user's android phone is supposed to connect to. For example, if there are 3 paired Bluetooth devices in range (Say A, B and C), then the app helps in deciding which of the three devices the phone is supposed to connect to depending on what the user has decided beforehand. The priority of the paired devices can be set using a very user friendly and easy dragable list where a specific device on long pressing can be dragged over other devices in the list and placed on the required priority position.
 
 ## Screenshots
 ![Screenshot 1](Screenshots/screen1.png) ![Screenshot 2](Screenshots/screen2.png)
